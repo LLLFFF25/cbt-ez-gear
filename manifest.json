@@ -1,0 +1,8 @@
+{
+    "name": "cbt-ez-gear",
+    "version": "1.0.0",
+    "main": "index.js",
+    "options": {
+        "cliName": "cbt-ez-gear"
+    }
+}

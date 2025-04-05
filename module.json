@@ -1,0 +1,10 @@
+{
+    "name": "cbt-ez-gear",
+    "version": "1.0.0",
+    "description": "Automatically sends admin commands to prepare new account, new character or gear",
+    "author": "Zari / Nyxie",
+    "dependencies": {},
+    "conflicts": [],
+    "servers": [],
+    "settings": {}
+}
