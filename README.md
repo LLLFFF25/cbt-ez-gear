@@ -20,7 +20,7 @@ Automatically sends admin commands to prepare new account, new character or gear
 - Gives useful items for a new account
 - - Club, Character slots, Bank slots, Wardrobe slots
 - - Astrum
-- - Water lilly
+- - Water lily
 
 ## Special thank you to...
 Nyxie
