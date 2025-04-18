@@ -1,3 +1,5 @@
+# DEPRECATED -> CBT made commands to have the funcionality in this mod
+
 # cbt-ez-gear
 Automatically sends admin commands to prepare new account, new character or gear
 
